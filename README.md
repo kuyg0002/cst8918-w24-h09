@@ -18,25 +18,25 @@ generated](./Screenshots/1.png){width="6.5in" height="3.89375in"}
 generated](./Screenshots/2.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 3.  The content od output which is kubeconfig file's content:
+## 3.  The content of output which is kubeconfig file's content:
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/3.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 4.  After successfully deploy for sample-app.yaml file, the output of result:
+## 4.  After successfully deploying for sample-app.yaml file, the output of result:
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/4.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 5.  After successfully deploy for sample-app.yaml file, the output of "kubectl get nodes" and "kubectl get services":
+## 5.  After successfully deploying for sample-app.yaml file, the output of "kubectl get nodes" and "kubectl get services":
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/5.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 6.  After successfully deploy for sample-app.yaml file, the app is working (checked from web portal)
+## 6.  After successfully deploying for sample-app.yaml file, the app is working (checked from web portal)
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/6.png){width="6.5in"
